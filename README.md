@@ -33,11 +33,11 @@ Segue descrito nos mapas mentais o planejamento para a realização dos testes.
 
 ### Planejamento
 
-![Planejamento](src\test\resource\planejamento-testes\desafio-basis.png)
+![Planejamento](src/test/resource/planejamento-testes/desafio-basis.png)
 
 ### Cenários de testes
 
-![Planejamento Cadastro de produto](src\test\resource\planejamento-testes\produto.png)
+![Planejamento Cadastro de produto](src/test/resource/planejamento-testes/produto.png)
 
 
 ---
@@ -68,7 +68,7 @@ Segue descrito nos mapas mentais o planejamento para a realização dos testes.
 
 ### _Cadastro de Produtos_
 
-![Bug's Cadastro de Produtos](src\test\resource\relatorio-incidentes\bugs-cadastro-produto.png)
+![Bug's Cadastro de Produtos](src/test/resource/relatorio-incidentes/bugs-cadastro-produto.png)
 
 
 # Observação
