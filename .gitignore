@@ -1,0 +1,18 @@
+### VisualStudioCode ###
+# Para todos os arquivos e sub-pastas de configuração do vscode
+.vscode/
+
+### Arquivos temporários ###
+# Para todos os arquivos e sub-pastas localzados na pasta target/
+target/
+target/surefire-reports/
+
+# Para arquivos de realatório de testes
+test-output/
+
+### Java ###
+#Para arquivos Java compilados
+*.class
+
+# Para arquivos de log
+*.log
